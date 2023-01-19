@@ -1,0 +1,44 @@
+body {
+  background-image: url(https://img.freepik.com/premium-photo/white-marble-texture-background_42682-286.jpg?w=2000);
+}
+
+.banner {
+height: 400px;
+background-image: url(https://www.bonaventurehistorical.org/wp-content/uploads/ColonialSignPostLA-576x288.jpg);
+text-align: center;
+font-size: 80px;
+color: red;
+margin: 100px;
+background-size: cover;
+background-position: center;
+padding: 50px;
+opacity: 0.90;
+}
+
+table {
+  border: 1px solid black;
+  text-align: center;
+  padding: 10px;
+  height: 200px;
+  width: 600px;
+  margin: 100px;
+  background-color: grey;
+}
+
+.more {
+  margin: 100px;
+  padding: 20px;
+  border: 1px solid;
+  text-align: center;
+  background-color: grey;
+}
+
+.container {
+  display: inline-block;
+  vertical-align: top;
+  height: 500px;
+  width: 200px; 
+  
+  padding: 5px;
+  margin: 1px;
+}
